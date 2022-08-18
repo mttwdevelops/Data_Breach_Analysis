@@ -30,7 +30,10 @@ I imported the dataset, and removed the 'Unnamed' and 'Sources' columns, as the 
 
 ## Exploratory Data Analysis
 
+It makes sense that hacks, poor security, and lost media are the most common data breach method, but 'inside job' is quite surprising. This will need further analysis.
 ![Method](https://github.com/mttwdevelops/Data_Breach_Analysis/blob/master/method.png)
+
+It also makes sense that as the internet has grown the number of breaches has also increased. It appears that 2011 had quite a number of breaches.
 ![Year](https://github.com/mttwdevelops/Data_Breach_Analysis/blob/master/year.png)
 
 ## Findings
