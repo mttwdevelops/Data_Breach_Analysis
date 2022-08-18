@@ -18,11 +18,11 @@ The scraper file is provided in the **Code and Resources Used** section, and can
 
 **Data Source**: https://en.wikipedia.org/wiki/List_of_data_breaches
 
-**Source Scraper**: https://github.com/mttwdevelops/Practice-Files/blob/master/Data_Breach_Analysis/db_breach_webscrape.py
+**Source Scraper**: https://github.com/mttwdevelops/Data_Breach_Analysis/blob/master/db_breach_webscrape.py
+
+**Full Analysis Notebook**: https://github.com/mttwdevelops/Data_Breach_Analysis/blob/master/db_analysis.ipynb
 
 **IDE and Language**: Visual Studio Code, Python Version 3.9.2
-
-**Full Analysis Notebook**: [NEED LINK HERE FOR .IPYNB]
 
 ## Data Cleaning
 
@@ -30,7 +30,8 @@ I imported the dataset, and removed the 'Unnamed' and 'Sources' columns, as the 
 
 ## Exploratory Data Analysis
 
-add method and year photos
+![Method](https://github.com/mttwdevelops/Data_Breach_Analysis/blob/master/method.png)
+![Year](https://github.com/mttwdevelops/Data_Breach_Analysis/blob/master/year.png)
 
 ## Findings
 
