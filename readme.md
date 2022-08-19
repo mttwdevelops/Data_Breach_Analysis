@@ -56,19 +56,21 @@ Of any company, Facebook (now Meta), has had over 1,064,500,000 records leaked s
 
 Facebook being hacked does not come as a surprise, as it contains as a single entity the largest registry of publically-volunteered information collection on a significant portion of the entire world's population. This social platform transcends international borders, collecting email addresses, phone numbers, and location data while also performing __[facial recognition](https://web.archive.org/web/20160605165148/http://www.theregister.co.uk/2015/11/10/facebook_scans_camera_for_your_friends/)__, __[snooping on phone calls and texts not made on Facebook through "metadata"](https://www.theguardian.com/technology/2018/mar/25/facebook-logs-texts-and-calls-users-find-as-they-delete-accounts-cambridge-analytica)__, among *many* other intrusive instances found __[here](https://stallman.org/facebook.html#privacy)__.
 
-## What Can Be Done For Your Digital Security
+## Things To Be Done From The Analysis
+
+### What Can Be Done For Your Digital Security
 
 In summary, and in order:
+
 1. Use common sense. So little needs to be done if used.
 2. Delete Facebook and any subsidiary apps.
-3. Delete user accounts that are not used. The fewer accounts you have, the fewer headaches, advertising emails, and accounts intruders can get access too. You'd be surprised how many accounts you generate over the years, and how few of them you regularly use. When any company asks about deleting your data, **you do live in California, and they must comply with [CCPA](https://oag.ca.gov/privacy/ccpa)**.
+3. Delete user accounts that are not used. The fewer accounts you have, the fewer headaches, advertising emails, and accounts intruders can get access too. You'd be surprised how many accounts you generate over the years, and how few of them you regularly use. When any company asks about deleting your data, **you live in California, and they must comply with [CCPA](https://oag.ca.gov/privacy/ccpa)**.
 4. Set up an offline password manager, such as [KeepassXC](https://keepassxc.org/), and change passwords into 20+ length randomized characters / numbers. This ensures that one password to an account will not compromise another, even if there is a breach. [Here is a starting guide](https://www.youtube.com/watch?v=Bpc3EEQ-GoA).
 5. Be more conscious of your activity online, along with anything that could be liked to you. Think before you post whether or not you include any uniqely identifiable information.
 
-
 ### What Can Be Done For Your Digital Privacy
 
-This is one step further than the previous list.
+This is one step further than the previous list, and may ruffle some feathers.
 
 1. You don't need to sign up for many services, especially retail. They often are just not worth the security risk and are just ads in your email. The data they collect as well makes them prime targets for breaches.
 2. Cash is king. Banks and credit cards generate a lot of metadata that can be traced, and this is prime for ads. These entities socially engineer you to make purchasing decisions through bonus-point and cash-back deals. And forget about online investment websites, [brokers sell data about your trades](https://dailycaller.com/2021/02/02/robinhood-hedge-funds-citadel-order-flows-gamestop-stock-market/).
