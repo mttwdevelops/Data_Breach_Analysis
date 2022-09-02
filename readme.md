@@ -65,8 +65,8 @@ In summary, and in order:
 1. Use common sense. So little needs to be done if used.
 2. Delete Facebook and any subsidiary apps.
 3. Delete user accounts that are not used. The fewer accounts you have, the fewer headaches, advertising emails, and accounts intruders can get access too. You'd be surprised how many accounts you generate over the years, and how few of them you regularly use. When any company asks about deleting your data, **you live in California, and they must comply with [CCPA](https://oag.ca.gov/privacy/ccpa)**.
-4. Set up an offline password manager, such as [KeepassXC](https://keepassxc.org/), and change passwords into 20+ length randomized characters / numbers. This ensures that one password to an account will not compromise another, even if there is a breach. [Here is a starting guide](https://www.youtube.com/watch?v=Bpc3EEQ-GoA).
-5. Be more conscious of your activity online, along with anything that could be liked to you. Think before you post whether or not you include any uniqely identifiable information.
+4. Set up an offline password manager, such as [KeepassXC](https://keepassxc.org/), and change passwords into 20+ length randomized characters and numbers. This ensures that one password to an account will not compromise another, even if there is a breach. [Here is a starting guide](https://www.youtube.com/watch?v=Bpc3EEQ-GoA).
+5. Be more conscious of your activity online, along with anything that could be liked to you. Think before you post whether or not you include any uniqely identifiable information, you'd be surprised how crafty bad people can be.
 
 ### What Can Be Done For Your Digital Privacy
 
@@ -75,6 +75,7 @@ This is one step further than the previous list, and may ruffle some feathers.
 1. You don't need to sign up for many services, especially retail. They often are just not worth the security risk and are just ads in your email. The data they collect as well makes them prime targets for breaches.
 2. Cash is king. Banks and credit cards generate a lot of metadata that can be traced, and this is prime for ads. These entities socially engineer you to make purchasing decisions through bonus-point and cash-back deals. And forget about online investment websites, [brokers sell data about your trades](https://dailycaller.com/2021/02/02/robinhood-hedge-funds-citadel-order-flows-gamestop-stock-market/).
 3. Be skeptical of any email you recieve. Links, attached files, and even the account they are contacting you with can be compromised.
-4. Rid yourself of any social media at all. These webs of social connection can be used to link others to yourself, and that can make you prime for spear-phishing attacks.
+4. Rid yourself of any social media at all. These webs of social connection can be used to link others to yourself, and that can make you prime for spear-phishing attacks. Another option is to falsify as much information as possible. Where you live, your check-ins, any of that can be spoofed, but that only goes so far. If you say you live in Georgia, but all of your publically-viewable friends live in California, then that kinda goes moot...
 5. Analog just works. Avoid "smart" products such as appliances, as they also collect massive amounts of data on your home and activities, with or without your full consent. 
 6. For those that don't know already, use a VPN to tunnel network activity, and don't forget about the adblock.
+7. If you **really** want to get serious about privacy, then I encourage you to read [this](https://inteltechniques.com/book7.html) book. Steps include and range from switching to GNU/Linux for your computer OS, buying a Google Pixel 4a in cash and then flashing a new OS without Google services, and then goes all the way to changing your address and driver's license state to South Dakota and living as a nomad. Not everyone will do this but typically chapters 1-3 are for the better and anything further is if you are ***almost*** Edward Snowden. 
